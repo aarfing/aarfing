@@ -8,7 +8,7 @@
       "city":     "Copenhagen",
       "product":  "https://tv2.dk"
       "stack":    ["HTML", "CSS", "JS", "React", "..."],
-      "skills":   ["Performance", "A11Y", "UX", "Design systems", "..."],
+      "skills":   ["Progressive enhancement", "Performance", "A11Y", "UX", "Design systems", "..."],
       "start":    "1996"
       "end":      null
     }
